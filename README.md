@@ -1,6 +1,6 @@
-## Opa! Caio Custódio Moreira aqui! - Desenvolvedor Full Stack
+## Me chamo Caio Custódio Moreira - Desenvolvedor Full Stack!
 
-Atualmente trabalhando e estudando com React e Java, com ênfase no front-end.
+Atualmente migrando pra área da tecnologia  trabalhando e estudando com ênfase em React e Java.
 
 <div align="center">
   <a href="https://github.com/Caio246">
